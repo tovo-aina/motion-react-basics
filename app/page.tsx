@@ -1,9 +1,9 @@
-import Display from "./components/Display";
+import Projet from "./components/Projet";
 
 export default function Home() {
   return (
     <>
-      <Display />
+      <Projet />
     </>
   );
 }
